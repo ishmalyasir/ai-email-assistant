@@ -54,3 +54,10 @@ This project explores practical AI integration, local language models, and no-co
 
 **Ishmal Yasir**
 
+## 📸 Project Screenshots
+
+### 1. n8n Workflow
+![AI Email Assistant Workflow](screenshots/workflow.png)
+
+### 2. Gmail Reply Draft
+![AI-Generated Gmail Draft](screenshots/gmail-draft.png)
